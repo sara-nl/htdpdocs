@@ -38,11 +38,11 @@ About
 .. toctree::
    :maxdepth: 1
 
-   Pages/about/what_is_it.rst
-   Pages/about/for_whom.rst
-   Pages/about/how_to_grant_access
+   .. Pages/about/what_is_it.rst
+   .. Pages/about/for_whom.rst
+   .. Pages/about/how_to_grant_access
    .. Pages/about/architecture
-   Pages/about/roadmap
+   .. Pages/about/roadmap
 
 ===============
 Getting started
