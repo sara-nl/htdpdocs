@@ -51,6 +51,7 @@ Getting started
 .. toctree::
    :maxdepth: 1
 
+   Pages/getting-started/login
 
 ==========================
 Compute on the HT-platform
