@@ -4,8 +4,8 @@
     :depth: 2
 
 
-*****************
-Login HT-platform
-*****************
+************************
+Login to the HT-platform
+************************
 
 .. SSH keys access explained (generate, surfsara portal)
