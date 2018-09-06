@@ -23,8 +23,7 @@ The Dockerfile for this image can be found in ReadTheDoc's GitHub repository: ht
 To build the image in Linux, run:
 
 .. code-block:: console
-   :linenos:
-  
+
    $git submodule init
    $git submodule update
    $cd readthedocs-docker-images
