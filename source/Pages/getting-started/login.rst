@@ -1,10 +1,14 @@
 .. _login:
 
-.. contents:: 
-    :depth: 4
+********************
+Getting started
+********************
 
-On this page you will find general information about getting started on HT-platform
-    
+On this page you will find general information about getting started on HT-platform.
+
+.. contents:: 
+    :depth: 2
+
 .. _login-account:
 
 =======================
@@ -37,8 +41,8 @@ the tab "Public ssh keys" on the left pane.
 
 .. image:: /Images/cua-portal-addssh.png
 	:align: center
-    
-4. After you logout from the portal you can login to HT-platform via a terminal with the following command:
+
+4. After you logout from the portal you can login to the HT-platform via a terminal with the following command:
 
 .. code-block:: console
 
