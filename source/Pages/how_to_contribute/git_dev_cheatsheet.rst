@@ -89,7 +89,7 @@ If you miss the image, download it as explained :ref:`here <docker-install>`.
 
         $ git status
         $ git add source/Pages/how_to_contribute/git_dev_cheatsheet.rst
-        git commit -m 'working with branches guide'
+        $ git commit -m 'working with branches guide'
 
 * Push to the ``dev`` remote branch:
 
