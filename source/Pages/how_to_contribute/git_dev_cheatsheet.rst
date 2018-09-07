@@ -2,6 +2,10 @@
 Git dev branch
 **************
 
+=========
+Procedure
+=========
+
 The instructions here describe the steps to commit changes to the ``dev`` branch
 of the documentation Github repository:
 
@@ -119,3 +123,67 @@ Note! We push changes on ``dev`` branch, nothing changes on ``master``.
   * New pull request -> ``Base:master/ compare:dev``
   * Add a description and check changes
   * Create a pull request
+
+
+====================
+Commit behind master
+====================
+
+Due to the multiple commits in the `dev` branch and possible pending pull requests, you may encounter the 
+warning 'This branch is 1 commit behind master.' You can resolve this with the following steps:
+
+* Browse to the root directory of the documentation and pull to fetch the latest version to your local master:
+
+.. code-block:: bash
+
+        $ cd htdpdocs
+        $ git pull
+
+
+* Switch to the ``dev`` branch:
+
+.. code-block:: bash
+
+        $ git checkout dev
+
+* Pull from the remote `dev` branch:
+
+.. code-block:: bash
+
+        $ git pull origin dev
+        
+* Merge the local `dev` branch with the remote `dev` branch:        
+
+.. code-block:: bash
+
+        $ git merge origin dev
+        
+* Push the merged branch to the remote `dev` branch: 
+
+.. code-block:: bash
+
+        $ git merge origin dev
+
+* Check status:
+
+.. code-block:: bash
+
+        $ git status
+        # On branch dev
+        # Your branch is ahead of 'origin/dev' by 1 commit.
+
+*  Push the merged branch to the remote `dev` branch:
+
+.. code-block:: bash
+
+        $ git push origin dev
+
+* To verify the resolution, on the website switch to `dev`. It sould display "This branch is even with master." Or from the command-line, check in your local `dev` branch:
+
+.. code-block:: bash
+
+        $ git status
+        # On branch dev
+        # Your branch is up to date with 'origin/dev'.        
+        # nothing to commit, working tree clean
+        
