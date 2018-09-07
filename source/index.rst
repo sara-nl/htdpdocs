@@ -68,8 +68,10 @@ Storage on the HT-platform
 ==========================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
+   Pages/storage/data_storage
+   Pages/storage/data_transfers
 
 ===========================
 Software on the HT-platform
