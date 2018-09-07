@@ -7,37 +7,41 @@
 Roadmap
 *******
 
-* 1st iteration [10 September 2018]:
+* 1st iteration [Q4 2018]:
 
   * Slurm cluster deployed on OpenStack
   * CephFS POSIX storage
+  * Local SSD scratch
   * SSH public key access to the cluster
   * Singularity
 
-* 2nd iteration [24 September 2018]:
+|
 
-  * Project spaces
+* 2nd iteration [Q4 2018]:
+
+  * Project spaces & data sharing
   * CVMFS/Softdrive
 
-.. * 3rd iteration [when]:
-  * Accounting information
-  * X509/VOMS support
+|
+
+* 3rd iteration [Q4 2018]:
+
+  * Accounting and reporting
   * SWIFT support
   * dCache support (webdav, gridftp)
   * Archive support
   * Workflow engines support (CWL/Toil/Airflow)
 
-.. * 4th iteration [when]:
-  * Environment modules (Python, R, Matlab)
-  * API to scheduler (slurm) from the UI
+|
 
-.. * Under evaluation
-  * RCauth
+* Tentative:
+
+  * Pilot job frameworks (PiCaS, DIRAC, Rucio)
+  * API access to scheduler (slurm)
+  * Environment modules for SW packages
+  * RCauth support
   * Jupyter Notebooks
-  * License server
   * Lightpaths
-  * Job Priorities
-  * Preemption if ephemeral class of jobs supported
-  * Dedicated UIs with access to the cluster
-  * Preconfigured VM with project-space and CVMFS read-only mounted inside
-  * ..
+  * Preemption & ephemeral class of jobs
+  * Connection with project-dedicated user interfaces
+  * Dedicated hosts with mounted storage systems

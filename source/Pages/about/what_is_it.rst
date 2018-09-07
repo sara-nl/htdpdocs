@@ -7,8 +7,26 @@
 What is the HT-platform
 ************************
 
-The HT-platform is a service designed for High Throughput analyses of
-data-intensive scientific applications.
+--------
+Overview
+--------
+
+The HT-platform is a versatile High Throughput data processing facility aimed at
+processing large structured data sets. It runs on top of our in-house elastic
+data-processing cloud, allowing for scalable processing of many terabytes of
+data, or even petabytes, utilizing many hundreds of cores simultaneously, in
+exceedingly short timespans. Superb network throughput ensures connectivity to
+external data storage systems.
+
+Apart from scaling and capacity, the platform is aimed at interoperability with
+other services, allowing for a high degree of integration and customization into
+the user domain, and further enhanced by specific features supporting
+collaboration, data (re)distribution, private resources or even private
+HT-platform instances.
+
+-----------------------
+HT-platform at a glance
+-----------------------
 
 As an HT-platform user, you will be able to:
 
