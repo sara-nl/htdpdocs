@@ -51,7 +51,9 @@ Getting started
 .. toctree::
    :maxdepth: 1
 
+   Pages/getting-started/access
    Pages/getting-started/login
+
 
 ==========================
 Compute on the HT-platform
@@ -84,7 +86,8 @@ Need help
 .. toctree::
    :maxdepth: 1
 
-
+   Pages/need_help/helpdesk
+   Pages/need_help/faq
 
 =================
 How to contribute
