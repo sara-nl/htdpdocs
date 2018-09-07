@@ -7,6 +7,8 @@
 What is the HT-platform
 ************************
 
+.. _service-overview:
+
 --------
 Overview
 --------
@@ -23,6 +25,9 @@ other services, allowing for a high degree of integration and customization into
 the user domain, and further enhanced by specific features supporting
 collaboration, data (re)distribution, private resources or even private
 HT-platform instances.
+
+
+.. _service-at-a-glance:
 
 -----------------------
 HT-platform at a glance
