@@ -54,6 +54,14 @@ Getting started
    Pages/getting-started/access
    Pages/getting-started/login
 
+.. =================
+ Project lifecycle
+ =================
+
+   Pages/project_lifecycle/user_lifecycle
+   Pages/project_lifecycle/start_project
+   Pages/project_lifecycle/extend_project
+   Pages/project_lifecycle/join_existing_project
 
 ==========================
 Compute on the HT-platform
@@ -80,6 +88,21 @@ Software on the HT-platform
 .. toctree::
    :maxdepth: 1
 
+   Pages/software/available_software
+   Pages/software/user_software
+   Pages/software/singularity
+
+.. ========
+ Advanced
+ ========
+
+.. ==========================
+ Downtimes and maintenances
+ ==========================
+
+.. ===============
+ Success stories
+ ===============
 
 =========
 Need help
