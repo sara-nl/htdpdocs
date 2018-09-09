@@ -129,7 +129,7 @@ Note! We push changes on ``dev`` branch, nothing changes on ``master``.
 Commit behind master
 ====================
 
-Due to the multiple commits in the `dev` branch and possible pending pull requests, you may encounter the 
+Due to the multiple commits in the `dev` branch and possible pending pull requests, you may encounter the
 warning 'This branch is 1 commit behind master.' You can resolve this with the following steps:
 
 * Browse to the root directory of the documentation and pull to fetch the latest version to your local master:
@@ -151,14 +151,14 @@ warning 'This branch is 1 commit behind master.' You can resolve this with the f
 .. code-block:: bash
 
         $ git pull origin dev
-        
-* Merge the local `dev` branch with the remote `dev` branch:        
+
+* Merge the local `dev` branch with the remote `dev` branch:
 
 .. code-block:: bash
 
         $ git merge origin dev
-        
-* Push the merged branch to the remote `dev` branch: 
+
+* Push the merged branch to the remote `dev` branch:
 
 .. code-block:: bash
 
@@ -184,6 +184,17 @@ warning 'This branch is 1 commit behind master.' You can resolve this with the f
 
         $ git status
         # On branch dev
-        # Your branch is up to date with 'origin/dev'.        
+        # Your branch is up to date with 'origin/dev'.
         # nothing to commit, working tree clean
-        
+
+
+======
+Extras
+======
+
+* Git commands overview :download:`pdf </Images/git-cheatsheet-EN-white.pdf>`
+
+* Git commands sequence:
+
+.. image:: /Images/git_commands_sequence.png
+	:align: center

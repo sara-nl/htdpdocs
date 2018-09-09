@@ -1,3 +1,5 @@
+.. warning:: Please note that the HT-platform is a fresh service - still in Beta phase - and the documentation here is heavily under construction. If you need any help in these pages, please contact :ref:`our helpdesk <helpdesk>`.
+
 
  .. # Copyright 2018 SURFsara B.V.
    #
@@ -22,14 +24,18 @@
 
 .. _contents:
 
-**************************************
-High Throughput Platform Documentation
-**************************************
+**********************
+HT-platform User Guide
+**********************
 
-Welcome to the documentation for using the High Throughput platform at `SURFsara`_.
-Please note that the documentation here is heavily under construction.
-Contact us at helpdesk@surfsara if you need any help in these pages.
+Welcome to the High Throughput platform user guide! The HT-platform is a service
+based at `SURFsara`_ and tailored for scientists with data-intensive problems.
 
+The aim of this user guide is to help new users getting started on the
+HT-platform, while it also serves a useful reference for existing HT-platform
+members. Whether you seek information for the HT-plaform in general, or how to
+access and use the available services, or best practices for the efficient use
+of the resources, read on!
 
 =====
 About
@@ -44,6 +50,15 @@ About
    .. Pages/about/architecture
    Pages/about/roadmap
 
+.. =================
+ Project lifecycle
+ =================
+
+   .. Pages/project_lifecycle/user_lifecycle
+   .. Pages/project_lifecycle/start_project
+   .. Pages/project_lifecycle/extend_project
+   .. Pages/project_lifecycle/join_existing_project
+
 ===============
 Getting started
 ===============
@@ -53,15 +68,7 @@ Getting started
 
    Pages/getting-started/access
    Pages/getting-started/login
-
-.. =================
- Project lifecycle
- =================
-
-   Pages/project_lifecycle/user_lifecycle
-   Pages/project_lifecycle/start_project
-   Pages/project_lifecycle/extend_project
-   Pages/project_lifecycle/join_existing_project
+   .. Pages/getting-started/environment
 
 ==========================
 Compute on the HT-platform
@@ -80,6 +87,7 @@ Storage on the HT-platform
 
    Pages/storage/data_storage
    Pages/storage/data_transfers
+   Pages/storage/backup_policies
 
 ===========================
 Software on the HT-platform
@@ -92,9 +100,9 @@ Software on the HT-platform
    Pages/software/user_software
    Pages/software/singularity
 
-.. ========
- Advanced
- ========
+.. ===============
+ Advanced topics
+ ===============
 
 .. ==========================
  Downtimes and maintenances
@@ -114,18 +122,6 @@ Need help
    Pages/need_help/helpdesk
    Pages/need_help/faq
 
-=================
-How to contribute
-=================
-
-.. toctree::
-   :maxdepth: 1
-
-   Pages/how_to_contribute/index
-
-.. toctree::
-   :maxdepth: 1
-
 
 =====
 Index
@@ -134,9 +130,12 @@ Index
 .. toctree::
    :maxdepth: 1
 
+   Pages/how_to_contribute/index
    Pages/cookie_policy
 
 * :ref:`search`
+
+.. seealso:: Still need help? Contact :ref:`our helpdesk <helpdesk>`
 
 .. Links:
 

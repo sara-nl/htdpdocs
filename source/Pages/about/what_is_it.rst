@@ -1,3 +1,5 @@
+.. warning:: Please note that the HT-platform is a fresh service - still in Beta phase - and the documentation here is heavily under construction. If you need any help in these pages, please contact :ref:`our helpdesk <helpdesk>`.
+
 .. _what-is-htdp:
 
 .. contents::
@@ -36,10 +38,13 @@ HT-platform at a glance
 As an HT-platform user, you will be able to:
 
 * Upload your own data and set up your own project environment
-* Process large volumes of data (few TBs to PBs)
-* Process large amount of independent jobs (scale of million core hours)
-* Run workflows consisting of jobs of such kind
+* Process large volumes of data of many terabytes to petabytes
+* Process large amount of independent simulations on a batch system
+* Run workflows consisting of simulations of such kind
 * Collaborate, share data and workflows with your project team
 * Access HA external storage facilities with fast connectivity, such as SWIFT and dCache
-* Make your own backups to Tape (Archive)
+* Make your own backups to Tape, such as Data Archive
 * Benefit from extensive user support and a dedicated service desk
+
+
+.. seealso:: Still need help? Contact :ref:`our helpdesk <helpdesk>`

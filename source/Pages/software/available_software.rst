@@ -1,3 +1,5 @@
+.. warning:: Please note that the HT-platform is a fresh service - still in Beta phase - and the documentation here is heavily under construction. If you need any help in these pages, please contact :ref:`our helpdesk <helpdesk>`.
+
 .. _available-software:
 
 .. contents::
@@ -47,6 +49,9 @@ manager. The currently installed version of Slurm can be obtained by by typing
 Specific HT-related Slurm information and job scheduling can be found in section
 'Compute on the HT-platform' and more generic info can be found at the
 `Slurm documentation page`_.
+
+
+.. seealso:: Still need help? Contact :ref:`our helpdesk <helpdesk>`
 
 .. Links:
 .. _`Slurm documentation page`: https://slurm.schedmd.com/

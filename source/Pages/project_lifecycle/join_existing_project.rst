@@ -1,3 +1,5 @@
+.. warning:: Please note that the HT-platform is a fresh service - still in Beta phase - and the documentation here is heavily under construction. If you need any help in these pages, please contact :ref:`our helpdesk <helpdesk>`.
+
 .. _join-project:
 
 .. contents::
@@ -9,3 +11,6 @@ Join an existing project
 
  * Contact the project admin
  * Project admin request for new logins
+
+
+ .. seealso:: Still need help? Contact :ref:`our helpdesk <helpdesk>`

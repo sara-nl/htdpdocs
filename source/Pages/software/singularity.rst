@@ -1,3 +1,5 @@
+.. warning:: Please note that the HT-platform is a fresh service - still in Beta phase - and the documentation here is heavily under construction. If you need any help in these pages, please contact :ref:`our helpdesk <helpdesk>`.
+
 .. _singularity:
 
 .. contents::
@@ -29,6 +31,9 @@ on `Singularity SURFsara`_ page and more generic info can be found at the
 .. ====================================
  Upload your image to the HT-platform
  ====================================
+
+
+.. seealso:: Still need help? Contact :ref:`our helpdesk <helpdesk>`
 
 
 .. Links:
