@@ -1,3 +1,5 @@
+.. warning:: Please note that the HT-platform is a fresh service - still in Beta phase - and the documentation here is heavily under construction. If you need any help in these pages, please contact :ref:`our helpdesk <helpdesk>`.
+
 .. _architecture:
 
 .. contents::
@@ -24,3 +26,6 @@ Service components explained
 
 .. Description of main service components, maybe include the storage & compute
    capacity & network bandwidth
+
+
+.. seealso:: Still need help? Contact :ref:`our helpdesk <helpdesk>`

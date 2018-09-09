@@ -1,3 +1,5 @@
+.. warning:: Please note that the HT-platform is a fresh service - still in Beta phase - and the documentation here is heavily under construction. If you need any help in these pages, please contact :ref:`our helpdesk <helpdesk>`.
+
 .. _FAQ:
 
 .. contents::
@@ -36,3 +38,6 @@ See :ref:`service-at-a-glance`.
  * What are the available resources
  * What is the backup policy
  * What is my total usage on the system (CPU, storage)
+
+
+.. seealso:: Still need help? Contact :ref:`our helpdesk <helpdesk>`

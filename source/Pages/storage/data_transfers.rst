@@ -1,3 +1,5 @@
+.. warning:: Please note that the HT-platform is a fresh service - still in Beta phase - and the documentation here is heavily under construction. If you need any help in these pages, please contact :ref:`our helpdesk <helpdesk>`.
+
 .. _data-transfers:
 
 .. contents::
@@ -27,9 +29,9 @@ on the command line after logging into the system, or (ii) by contacting
 
 .. _data-transfers-to-and-from-ht:
 
-==============================================================
-Data transfers to and from external storage to the HT-platform
-==============================================================
+======================================
+Data transfers to/from the HT-platform
+======================================
 
 To transfer data to and from the HT-platform we advise you to use ``scp``,
 ``rsync`` or ``wget``. Other options may be available, but these are currently
@@ -39,3 +41,6 @@ Help on the above commands can be found by (i) typing ``man [COMMAND]`` after
 logging into the system. For those cases that require another client for data
 transfers is necessary we kindly request that you to contact us via
 :ref:`our helpdesk <helpdesk>`.
+
+
+.. seealso:: Still need help? Contact :ref:`our helpdesk <helpdesk>`

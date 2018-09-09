@@ -4,9 +4,11 @@
 Cheatsheet
 **********
 
-Look at the raw version of this file to compare the source and build version: :download:`sphinx_cheatsheet.rst`
+Look at the raw version of this file to compare the source and build version:
+:download:`sphinx_cheatsheet.rst`
 
-The first lines of this page will also be explained later on in this document (see *Links* and *Titles*)
+The first lines of this page will also be explained later on in this document
+(see *Links* and *Titles*)
 
 .. this is a comment, it will not be displayed
 
@@ -15,7 +17,7 @@ The first lines of this page will also be explained later on in this document (s
 
 .. ============ Text fonts ===============
 
-*italic word*  
+*italic word*
 
 **bold word**
 
@@ -154,7 +156,7 @@ value3               42
 :file:`path/to/myfile.txt`
 
 :download:`A file for download <sphinx_cheatsheet.rst>`
- 
+
 .. image:: /Images/surf_logos/SURF_SARA_fc.png
     :width: 200px
     :align: center

@@ -10,15 +10,17 @@ Preparation
 
 Before you start with the Docker image, make sure that:
 
-* You have `Docker Engine installed <https://docs.docker.com/engine/installation/>`_ 
+* You have `Docker Engine installed <https://docs.docker.com/engine/installation/>`_
 * Docker is running on your host
-* You have cloned the ``griddocs`` repository
+* You have cloned the ``htdpdocs`` repository
 
 ===========
 Build image
 ===========
 
-The Dockerfile for this image can be found in ReadTheDoc's GitHub repository: https://github.com/rtfd/readthedocs-docker-images It is also added as a submodule. 
+The Dockerfile for this image can be found in ReadTheDoc's GitHub
+repository: https://github.com/rtfd/readthedocs-docker-images
+It is also added as a submodule.
 
 To build the image in Linux, run:
 

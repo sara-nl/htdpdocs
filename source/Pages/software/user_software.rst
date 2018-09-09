@@ -1,3 +1,5 @@
+.. warning:: Please note that the HT-platform is a fresh service - still in Beta phase - and the documentation here is heavily under construction. If you need any help in these pages, please contact :ref:`our helpdesk <helpdesk>`.
+
 .. _user-software:
 
 .. contents::
@@ -29,3 +31,6 @@ users by setting the appropriate user permissions on the installed software
 directory and files. This can be done via the ``chmod`` command and help on this
 commands can be found by typing ``man chmod`` on the command line after
 :ref:`login <login>` into the system.
+
+
+.. seealso:: Still need help? Contact :ref:`our helpdesk <helpdesk>`

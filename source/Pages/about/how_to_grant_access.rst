@@ -1,3 +1,5 @@
+.. warning:: Please note that the HT-platform is a fresh service - still in Beta phase - and the documentation here is heavily under construction. If you need any help in these pages, please contact :ref:`our helpdesk <helpdesk>`.
+
 .. _grant-access:
 
 .. contents::
@@ -7,7 +9,8 @@
 How to grant access
 *******************
 
-Please contact us at helpdesk@surfsara to request access to the HT-platform.
+Please contact :ref:`our helpdesk <helpdesk>` to request access to the
+HT-platform.
 
 
 .. _e-infra:
@@ -39,3 +42,6 @@ Please contact us at helpdesk@surfsara to request access to the HT-platform.
 
 .. Paid contract has no principle limits; technical and allocation limits may be
    present and need investigation based on requirements and time constraints
+
+
+.. seealso:: Still need help? Contact :ref:`our helpdesk <helpdesk>`

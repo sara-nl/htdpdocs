@@ -1,3 +1,5 @@
+.. warning:: Please note that the HT-platform is a fresh service - still in Beta phase - and the documentation here is heavily under construction. If you need any help in these pages, please contact :ref:`our helpdesk <helpdesk>`.
+
 .. _access:
 
 .. contents::
@@ -38,7 +40,7 @@ upload it. Else you have to generate a key-pair by using the following command:
 
 .. code-block:: console
 
-   $ssh-keygen # This will create a key-pair in $HOME/.ssh directory
+   $laptop$ ssh-keygen # This will create a key-pair in $HOME/.ssh directory
 
 
 .. _upload-key:
@@ -51,20 +53,20 @@ Follow these steps to upload your key to our SURFsara portal. Note that this is
 *one time* task:
 
 * **Step1**: Login to the `SURFsara portal`_ with your SURFsara user account
-
-* **Step2**: Click on the tab "Public ssh keys" on the left pane.
-
-.. Add a screenshot with annotation here
+* **Step2**: Click on the tab "Public ssh keys" on the left pane
 * **Step3**: Add your public key by copying the contents of your file ``id_rsa.pub`` as shown below:
 
-.. image:: /Images/cua-portal-addssh.png
-	:align: center
+  .. image:: /Images/cua-portal-addssh.png
+	   :align: center
 
 .. Replace with a picture with key pasted and annotated.
 
 From now on you can login to the HT-platform with your SSH keys from your laptop
 (or other computer where your SSH key was generated/transferred).
 See next, :ref:`how to login <login>`.
+
+
+.. seealso:: Still need help? Contact :ref:`our helpdesk <helpdesk>`
 
 
 .. Links:
