@@ -71,23 +71,26 @@ Getting started
    .. Pages/getting-started/environment
 
 ==========================
-Compute on the HT-platform
+Storage on the HT-platform
 ==========================
 
 .. toctree::
    :maxdepth: 1
 
-
-==========================
-Storage on the HT-platform
-==========================
-
-.. toctree::
-   :maxdepth: 2
-
    Pages/storage/data_storage
    Pages/storage/data_transfers
    Pages/storage/backup_policies
+
+==========================
+Compute on the HT-platform
+==========================
+
+.. toctree::
+    :maxdepth: 1
+
+    Pages/compute/common_commands
+    Pages/compute/prepare_workloads
+    Pages/compute/run_workloads
 
 ===========================
 Software on the HT-platform
@@ -100,13 +103,13 @@ Software on the HT-platform
    Pages/software/user_software
    Pages/software/singularity
 
-.. ===============
- Advanced topics
- ===============
+===============
+Advanced topics
+===============
 
-.. ==========================
- Downtimes and maintenances
- ==========================
+==========================
+Downtimes and maintenances
+==========================
 
 .. ===============
  Success stories
