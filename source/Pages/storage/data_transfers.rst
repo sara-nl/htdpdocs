@@ -39,7 +39,7 @@ are currently not supported by us.
 
 Help on the above commands can be found by (i) typing ``man [COMMAND]`` after
 logging into the system. For those cases that require another client for data
-transfers is necessary we kindly request that you to contact us via
+transfers, we kindly request that you to contact us via
 :ref:`our helpdesk <helpdesk>`.
 
 
