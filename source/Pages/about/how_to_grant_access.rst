@@ -6,7 +6,7 @@
     :depth: 2
 
 *******************
-How to grant access
+How to get access
 *******************
 
 Please contact :ref:`our helpdesk <helpdesk>` to request access to the
