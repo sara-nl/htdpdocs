@@ -39,7 +39,7 @@ Login to the UI
 .. code-block:: console
 
       $ssh homer@145.38.252.159
-      [homer@htp-ui ~]$  # this is the first prompt upon login
+      #[homer@htp-ui ~]$  # this is the first prompt upon login
 
 Congrats! You've just logged in to the HT-platform.
 
