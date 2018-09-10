@@ -13,16 +13,16 @@ Slurm has many commands with many options, here you have a list with the most
 common ones. For more information please checkout the
 `Slurm documentation page`_.
 
-=========   ============
-Command     What it does
-=========   ============
-sinfo       displays the nodes information
-sbatch      submits a job to the batch system
-scancel     cancels a submitted job
-squeue      displays the state of submitted jobs
-scontrol    shows detailed job information (useful for debugging)
-sacct       shows detailed accounting information for jobs
-=========   ============
+============   ============
+Command         What it does
+============   ============
+``sinfo``      displays the nodes information
+``sbatch``     submits a job to the batch system
+``scancel``    cancels a submitted job
+``squeue``     displays the state of submitted jobs
+``scontrol``   shows detailed job information (useful for debugging)
+``sacct``      shows detailed accounting information for jobs
+============   ============
 
 .. srun        runs a job from the command line or from within a job script
 .. example with
