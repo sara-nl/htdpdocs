@@ -11,7 +11,8 @@ If you need any assistance on the HT-platform, to ask a question, report an
 incident or make a service request, please contact our support team at:
 
 * Email: helpdesk@surfsara.nl
-* Telephone: 020 800 1400
+
+.. * Telephone: 020 800 1400
 
 Please provide us (at least) with the following information:
 
