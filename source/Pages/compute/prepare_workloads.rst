@@ -14,9 +14,9 @@ Job management overview
 =======================
 
 On the HT-platform you will use Slurm to schedule, manage and execute your
-jobs. Slurm (short for Simple Linux Utility for Resource Management) and is
+jobs. Slurm (short for Simple Linux Utility for Resource Management) is
 an open source, fault-tolerant, and highly scalable cluster management and job
-scheduling system for Linux clusters. Further information can be at the
+scheduling system for Linux clusters. Further information can be found at the
 `Slurm overview page`_.
 
 ======================
@@ -36,9 +36,9 @@ successfully.
 Before submitting your jobs, it is a good practice to run a few tests of your
 programs locally (on the login node or other system) and observe:
 
-* i) the time that your programs take to execute and
-* ii) the amount of cores that your software needs to execute these tasks
-* iii) the maximum memory used by the programs during execution
+i) the time that your programs take to execute and
+ii) the amount of cores that your software needs to execute these tasks
+iii) the maximum memory used by the programs during execution
 
 Once you get a rough estimate of the resources above, you are set to go. Create
 your job script to request from the scheduler the estimated resources.
