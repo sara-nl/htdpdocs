@@ -17,7 +17,7 @@ cluster. It allows both to add a lot of storage to the system when needed,
 while sustaining a lot of concurrent access to many users at the same time.
 
 The data stored on CephFS is disk only, replicated three times for redundancy.
-For disk-only data there is **no backup**. If you cannot afford to loose this
+For disk-only data there is **no backup**. If you cannot afford to lose this
 data, we advise you to copy it elsewhere as well.
 
 .. Add information about the Data Archive.
