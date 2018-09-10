@@ -26,7 +26,7 @@ directory.
 Setup and sharing
 =================
 
-User installed software in the home directory can be shared among different
+User installed software in the home directory can be shared amongst different
 users by setting the appropriate user permissions on the installed software
 directory and files. This can be done via the ``chmod`` command and help on this
 commands can be found by typing ``man chmod`` on the command line after
