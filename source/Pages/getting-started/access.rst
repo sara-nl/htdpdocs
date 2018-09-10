@@ -30,9 +30,9 @@ Prerequisites
 * A SURFsara user account
 * An SSH key-pair on your laptop (or other machine you connect from)
 
-As a member of an HT-platform project you have received a SURFsara user account.
+As a member of an HT-platform project you shall have received a SURFsara user account.
 This account is required to access the SURFsara portal in the step below. If you
-still don't have this account, get an account first as described in
+still don't have a user account, please request an account first as described in
 :ref:`how to grant access <grant-access>` and then return to this page.
 
 If you already have an ssh key-pair please proceed to the next section to
