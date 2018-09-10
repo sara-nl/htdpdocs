@@ -12,7 +12,7 @@ Run your workloads
 .. _job-submit-output:
 
 ===================
-Job submit & output
+Job submission & output retrieval
 ===================
 
 Run a local Job
@@ -54,7 +54,7 @@ description script as well as any local options specified for individual
 ``srun <options>`` jobs.
 
 Below we provide an example for ``sbatch`` job submission with options. Here we
-submitting and executing the above mentioned ``hello_world.py`` script to the
+submit and execute the above mentioned ``hello_world.py`` script to the
 queue via ``sbatch`` and provide options ``- N 1`` to request only 1 node,
 ``-c 1`` to request for 1 core and 8GB memory (coupled) and ``-t 1:00`` to
 request a maximum run time of 1 minute. The job script, ``hello_world.sh``,
@@ -95,7 +95,7 @@ node. In doing so, please take into account that the login node is a shared
 resource and hence any job testing should consume the least demanding set of
 resources. For debugging with high resource demands it is possible to set up
 interactive jobs on other (test) nodes for this specific purpose. If you have
-high resources demands for testing your jobs, please contact
+high resource demands for testing your jobs, please contact
 :ref:`our helpdesk <helpdesk>`.
 
 
