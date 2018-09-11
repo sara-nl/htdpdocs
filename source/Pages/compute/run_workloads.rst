@@ -73,6 +73,7 @@ You can submit this job script to the Slurm managed job queue as;
 .. code-block:: console
 
    $ sbatch hello_world.sh
+   Submitted batch job 808
 
 The job is scheduled in the queue with ``jobid 808`` and the stdout output of
 the job is saved in the ascii file ``slurm-808.out``.
