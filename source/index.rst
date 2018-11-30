@@ -1,4 +1,4 @@
-.. warning:: Please note that the HT-platform is a fresh service - still in Beta phase - and the documentation here is heavily under construction. If you need any help in these pages, please contact :ref:`our helpdesk <helpdesk>`.
+.. warning:: Please note that Spider is a fresh service - still in Beta phase - and the documentation here is heavily under construction. If you need any help in these pages, please contact :ref:`our helpdesk <helpdesk>`.
 
 
  .. # Copyright 2018 SURFsara B.V.
@@ -16,7 +16,7 @@
   # limitations under the License.
 
 
-.. HT-platform Documentation master file, created by
+.. Spider Documentation master file, created by
    sphinx-quickstart on Thu 30 Aug 18:30 2018.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
@@ -24,16 +24,16 @@
 
 .. _contents:
 
-**********************
-HT-platform User Guide
-**********************
+*****************
+Spider User Guide
+*****************
 
-Welcome to the High Throughput platform user guide! The HT-platform is a service
+Welcome to the Spider platform user guide! Spider is a service
 based at `SURFsara`_ and tailored for scientists with data-intensive problems.
 
 The aim of this user guide is to help new users getting started on the
-HT-platform, while it also serves a useful reference for existing HT-platform
-members. Whether you seek information for the HT-plaform in general, or how to
+Spider, while it also serves a useful reference for existing Spider
+members. Whether you seek information for Spider in general, or how to
 access and use the available services, or best practices for the efficient use
 of the resources, read on!
 
@@ -70,9 +70,9 @@ Getting started
    Pages/getting-started/login
    .. Pages/getting-started/environment
 
-==========================
-Storage on the HT-platform
-==========================
+=================
+Storage on Spider
+=================
 
 .. toctree::
    :maxdepth: 1
@@ -81,9 +81,9 @@ Storage on the HT-platform
    Pages/storage/data_transfers
    Pages/storage/backup_policies
 
-==========================
-Compute on the HT-platform
-==========================
+=================
+Compute on Spider
+=================
 
 .. toctree::
     :maxdepth: 1
@@ -92,9 +92,9 @@ Compute on the HT-platform
     Pages/compute/prepare_workloads
     Pages/compute/run_workloads
 
-===========================
-Software on the HT-platform
-===========================
+==================
+Software on Spider
+==================
 
 .. toctree::
    :maxdepth: 1

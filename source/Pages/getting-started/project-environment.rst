@@ -1,4 +1,4 @@
-.. warning:: Please note that the HT-platform is a fresh service - still in Beta phase - and the documentation here is heavily under construction. If you need any help in these pages, please contact :ref:`our helpdesk <helpdesk>`.
+.. warning:: Please note that Spider is a fresh service - still in Beta phase - and the documentation here is heavily under construction. If you need any help in these pages, please contact :ref:`our helpdesk <helpdesk>`.
 
 .. _project-environment:
 
@@ -9,9 +9,9 @@
 Project environment
 ********************
 
-Each user on the HT-platform is a part of a project, and each user gets access to the following services through their project:  
+Each user on Spider is a part of a project, and each user gets access to the following services through their project:  
 
-1. Login node: This is your entry and access point to the HT-platform. From this node you can submit jobs, transfer data and prototype your application. It has a software environment very similar to the worker nodes where your submitted jobs will run. As the ``/home/$USER`` directory, which is where you land when you login, is accessible from all worker nodes it is a suitable place to port your software to (also see :ref:`os-version`).  
+1. Login node: This is your entry and access point to Spider. From this node you can submit jobs, transfer data and prototype your application. It has a software environment very similar to the worker nodes where your submitted jobs will run. As the ``/home/$USER`` directory, which is where you land when you login, is accessible from all worker nodes it is a suitable place to port your software to (also see :ref:`os-version`).  
 
 2. Project storage space: A member within a project can be either have the role of "project-admin" or a "project-user". A project is allocated several 'storage spaces' that can be easily accessed with simple linux commands e.g., cp. These 'storage spaces' are described below: 
 
@@ -21,7 +21,7 @@ Each user on the HT-platform is a part of a project, and each user gets access t
 
 * ``/project/your-project/Shared``: This is a storage allocation that allows read and write access to all members associated with the project. 
 
-* ``/project/your-project/Public``: This is a storage allocation that allows read access to all members using the HT-platform. 
+* ``/project/your-project/Public``: This is a storage allocation that allows read access to all members using Spider. 
 
 .. 3. Compute: which partitions and nodes are available be default?
 

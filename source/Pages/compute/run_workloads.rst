@@ -1,4 +1,4 @@
-.. warning:: Please note that the HT-platform is a fresh service - still in Beta phase - and the documentation here is heavily under construction. If you need any help in these pages, please contact :ref:`our helpdesk <helpdesk>`.
+.. warning:: Please note that Spider is a fresh service - still in Beta phase - and the documentation here is heavily under construction. If you need any help in these pages, please contact :ref:`our helpdesk <helpdesk>`.
 
 .. _run-workloads:
 
@@ -126,7 +126,7 @@ Using local ``/scratch``
 
 If you run jobs that require intensive I/O processes, we advise you to use
 ``/scratch`` because it is local SSD on every compute node of the the
-HT-platform. This is a temporary storage that can be used only during the
+Spider. This is a temporary storage that can be used only during the
 execution of your job and will be arbitrarily removed at any point once your
 job has finished running.
 

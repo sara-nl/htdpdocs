@@ -1,4 +1,4 @@
-.. warning:: Please note that the HT-platform is a fresh service - still in Beta phase - and the documentation here is heavily under construction. If you need any help in these pages, please contact :ref:`our helpdesk <helpdesk>`.
+.. warning:: Please note that Spider is a fresh service - still in Beta phase - and the documentation here is heavily under construction. If you need any help in these pages, please contact :ref:`our helpdesk <helpdesk>`.
 
 .. _FAQ:
 
@@ -9,7 +9,7 @@
 Frequently asked questions
 **************************
 
-Check out in this page the most commonly asked questions about the HT-platform.
+Check out in this page the most commonly asked questions about Spider.
 If you still have questions, please contact us at :ref:`helpdesk <helpdesk>`:
 
 =======
@@ -18,7 +18,7 @@ General
 
 .. _where-to-start:
 
-As an HT-platform user, what will I be able to do?
+As a Spider user, what will I be able to do?
 ==================================================
 
 See :ref:`service-at-a-glance`.

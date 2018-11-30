@@ -1,4 +1,4 @@
-.. warning:: Please note that the HT-platform is a fresh service - still in Beta phase - and the documentation here is heavily under construction. If you need any help in these pages, please contact :ref:`our helpdesk <helpdesk>`.
+.. warning:: Please note that Spider is a fresh service - still in Beta phase - and the documentation here is heavily under construction. If you need any help in these pages, please contact :ref:`our helpdesk <helpdesk>`.
 
 .. _access:
 
@@ -15,7 +15,7 @@ don't not allow username/password authentication.
 
 To use this method you will need first to configure your SSH public key on a
 portal provided by SURFsara. Then you can connect and authenticate to the
-HT-platform with your SSH keys without supplying your username or password at
+Spider with your SSH keys without supplying your username or password at
 each visit.
 
 .. Add a reference to pages that explain SSH key encryption
@@ -30,7 +30,7 @@ Prerequisites
 * A SURFsara user account
 * An SSH key-pair on your laptop (or other machine you connect from)
 
-As a member of an HT-platform project you shall have received a SURFsara user account.
+As a member of a Spider project you shall have received a SURFsara user account.
 This account is required to access the SURFsara portal in the step below. If you
 still don't have a user account, please request an account first as described in
 :ref:`how to grant access <grant-access>` and then return to this page.
@@ -61,7 +61,7 @@ Follow these steps to upload your key to our SURFsara portal. Note that this is
 
 .. Replace with a picture with key pasted and annotated.
 
-From now on you can login to the HT-platform with your SSH keys from your laptop
+From now on you can login to Spider with your SSH keys from your laptop
 (or other computer where your SSH key was generated/transferred).
 See next, :ref:`how to login <login>`.
 

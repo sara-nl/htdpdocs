@@ -1,4 +1,4 @@
-.. warning:: Please note that the HT-platform is a fresh service - still in Beta phase - and the documentation here is heavily under construction. If you need any help in these pages, please contact :ref:`our helpdesk <helpdesk>`.
+.. warning:: Please note that Spider is a fresh service - still in Beta phase - and the documentation here is heavily under construction. If you need any help in these pages, please contact :ref:`our helpdesk <helpdesk>`.
 
 .. _what-is-htdp:
 
@@ -6,7 +6,7 @@
     :depth: 2
 
 ************************
-What is the HT-platform
+What is Spider
 ************************
 
 .. _service-overview:
@@ -15,7 +15,7 @@ What is the HT-platform
 Overview
 --------
 
-The HT-platform is a versatile High Throughput data-processing facility aimed at
+Spider is a versatile High Throughput data-processing facility aimed at
 processing large structured data sets. It runs on top of our in-house elastic
 data-processing cloud, allowing for scalable processing of many terabytes of
 data, or even petabytes, utilizing many hundreds of cores simultaneously, in
@@ -26,16 +26,16 @@ Apart from scaling and capacity, the platform is aimed at interoperability with
 other services, allowing for a high degree of integration and customization into
 the user domain, and further enhanced by specific features supporting
 collaboration, data (re)distribution, private resources or even private
-HT-platform instances.
+Spider instances.
 
 
 .. _service-at-a-glance:
 
 -----------------------
-HT-platform at a glance
+Spider at a glance
 -----------------------
 
-As an HT-platform user, you will be able to:
+As a Spider user, you will be able to:
 
 * Upload your own data and set up your own project environment
 * Process large volumes of data of many terabytes to petabytes

@@ -7,7 +7,7 @@
 Helpdesk
 ********
 
-If you need any assistance on the HT-platform, to ask a question, report an
+If you need any assistance on Spider, to ask a question, report an
 incident or make a service request, please contact our support team at:
 
 * Email: helpdesk@surfsara.nl

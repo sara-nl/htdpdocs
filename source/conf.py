@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# HT-platform documentation build configuration file, created by
+# Spider documentation build configuration file, created by
 # sphinx-quickstart on 30 Aug 18:30 2018.
 #
 # This file is execfile()d with the current directory set to its
@@ -43,8 +43,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'HT-platform Documentation'
-copyright = u'2018, HT-platform Support <helpdesk@surfsara.nl>'
+project = u'Spider Documentation'
+copyright = u'2018, Spider Support <helpdesk@surfsara.nl>'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -176,7 +176,7 @@ html_title = "{} v{}".format(project, release)
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'HT-platformDocumentationdoc'
+htmlhelp_basename = 'SpiderDocumentationdoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -196,8 +196,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'HT-platformDocumentation.tex', u'HT-platform Documentation',
-   u'HT-platform Support \\textless{}helpdesk@surfsara.nl\\textgreater{}', 'manual'),
+  ('index', 'SpiderDocumentation.tex', u'Spider Documentation',
+   u'Spider Support \\textless{}helpdesk@surfsara.nl\\textgreater{}', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -226,8 +226,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'HT-platformdocumentation', u'HT-platform Documentation',
-     [u'HT-platform Support <helpdesk@surfsara.nl>'], 1)
+    ('index', 'Spiderdocumentation', u'Spider Documentation',
+     [u'Spider Support <helpdesk@surfsara.nl>'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -240,8 +240,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'HT-platformDocumentation', u'HT-platform Documentation',
-   u'HT-platform Support <helpdesk@surfsara.nl>', 'HT-platformDocumentation', 'One line description of project.',
+  ('index', 'SpiderDocumentation', u'Spider Documentation',
+   u'Spider Support <helpdesk@surfsara.nl>', 'SpiderDocumentation', 'One line description of project.',
    'Miscellaneous'),
 ]
 

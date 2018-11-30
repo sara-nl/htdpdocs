@@ -7,7 +7,7 @@
 Style guidelines
 ****************
 
-This page provides some style guidelines for the HT-platform documentation.
+This page provides some style guidelines for Spider documentation.
 
 =======
 General
@@ -38,7 +38,7 @@ Shell commands
   .. code-block:: bash
 
      # [homer@htp-ui ~]$ is the first prompt upon login
-     ssh [USERNAME]@[HT-platform HOSTNAME]
+     ssh [USERNAME]@[Spider HOSTNAME]
 
 * When you want to display commands, output and comments, use ``.. code-block:: console``. Prefix commands with a ``$`` and prefix comments with ``##``, otherwise they are marked up as a command. Example:
 
