@@ -20,7 +20,7 @@ processing large structured data sets. It runs on top of our in-house elastic
 data-processing cloud, allowing for scalable processing of many terabytes of
 data, or even petabytes, utilizing many hundreds of cores simultaneously, in
 exceedingly short timespans. Superb network throughput ensures connectivity to
-external data storage systems.
+external data storage systems.  
 
 Apart from scaling and capacity, the platform is aimed at interoperability with
 other services, allowing for a high degree of integration and customization into
