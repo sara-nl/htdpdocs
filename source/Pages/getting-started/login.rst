@@ -38,13 +38,13 @@ Login to the UI
 
 .. code-block:: console
 
-      $ssh homer@145.38.252.159
+      $ssh homer@spider.surfsara.nl
       #[homer@htp-ui ~]$  # this is the first prompt upon login
 
 Congrats! You've just logged in to Spider.
 
 
-.. note:: In case that you have multiple keys in your ``.ssh/`` folder, you would need to specify the key that matches the .pub file you :ref:`uploaded on the SURFsara portal <upload-key>`, i.e. ``ssh -i ~/.ssh/surfsarakey homer@145.38.252.159``
+.. note:: In case that you have multiple keys in your ``.ssh/`` folder, you would need to specify the key that matches the .pub file you :ref:`uploaded on the SURFsara portal <upload-key>`, i.e. ``ssh -i ~/.ssh/surfsarakey homer@spider.surfsara.nl``
 
 
 .. seealso:: Still need help? Contact :ref:`our helpdesk <helpdesk>`
