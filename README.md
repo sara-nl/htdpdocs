@@ -1,3 +1,5 @@
+**Note: This repo has been archived. The official Spider doc repo has moved [here](https://github.com/sara-nl/spiderdocs).**
+
 # High Throughput Data Processing Platform documentation
 
 This directory contains the source code of documentation maintained with
